@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="./assets/github-banner.png" alt="Tahera Akter - Full Stack Developer" width="100%" />
-</p>
+<div align="center"> 
+  <img src="./assets/github-banner.png" alt="Profile Banner" width="100%" /> 
+  
+<h2>Tahera Akter</h2>
+<h3> Full Stack Developer | Web Developer </h3>
+📍 Dhaka, Bangladesh  
+ •  📧 taherascript@gmail.com
+
+</div>
 
 # 💫 About Me:
 I'm an aspiring full-stack developer passionate about building modern web experiences. 
