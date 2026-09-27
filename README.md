@@ -1,4 +1,11 @@
-github-banner.png
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Tahera Akter - Full Stack Developer" width="100%" />
+</p>
+
+# 💫 About Me:
+
+I'm an aspiring full-stack developer passionate about building modern web experiences.
+Currently learning, building projects, and growing my skills step by step.
 # 💫 About Me:
 I'm an aspiring full-stack developer passionate about building modern web experiences. 
 Currently learning, building projects, and growing my skills step by step.
