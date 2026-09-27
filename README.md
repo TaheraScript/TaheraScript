@@ -1,4 +1,4 @@
-# Hi 👋, I'm <Tahera Akter>  
+# Hi 👋, I'm Tahera Akter 
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
