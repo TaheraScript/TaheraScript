@@ -12,7 +12,7 @@
 I'm an aspiring full-stack developer passionate about building modern web experiences. 
 Currently learning, building projects, and growing my skills step by step.
 
-🔭 Building modern web projects with React & Next.js<br>🌱 Currently learning full-stack development<br>💻 Exploring TypeScript, Next.js & backend technologies<br>🤝 Open to collaborating on web development projects<br>💬 Ask me about JavaScript, React & Next.js<br>🎯 Working toward becoming a professional full-stack developer<br>🌍 Future goal: Remote development & open-source collaboration
+🔭 Building modern web projects with React & Next.js<br>🌱 Currently learning full-stack development<br>💻 Exploring TypeScript, Next.js & backend technologies<br>🤝 Open to collaborating on web development projects<br>💬 Ask me about JavaScript, React & Next.js<br>🎯 Working toward becoming a professional full-stack developer<br>🌍 Future goal: Remote development & open-source collaboration <br> 📧 Email : taherascript@gmail.com
 
 
 <h2>🔭 Currently</h2>
