@@ -15,6 +15,14 @@ Currently learning, building projects, and growing my skills step by step.
 🔭 Building modern web projects with React & Next.js<br>🌱 Currently learning full-stack development<br>💻 Exploring TypeScript, Next.js & backend technologies<br>🤝 Open to collaborating on web development projects<br>💬 Ask me about JavaScript, React & Next.js<br>🎯 Working toward becoming a professional full-stack developer<br>🌍 Future goal: Remote development & open-source collaboration
 
 
+<h2>🔭 Currently</h2>
+<ul>
+  <li>🚀 I'm exploring Next.js</li>
+  <li> 🛠️ I'm working on a project,which title is Fitlog- (https://assignment-6-fitlog-eight.vercel.app/)</li>
+  <li>📚 I'm learning TypeScript</li>
+  <li> 🤝 I'm open to collaborating on frontend / full-stack projects</li>
+</ul>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Tahera) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tahera Akter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taherascript@gmail.com) 
 
