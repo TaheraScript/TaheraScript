@@ -18,7 +18,7 @@ Currently learning, building projects, and growing my skills step by step.
 <h2>🔭 Currently</h2>
 <ul>
   <li>🚀 I'm exploring Next.js</li>
-  <li> 🛠️ I'm working on a project,which title is Fitlog- (https://assignment-6-fitlog-eight.vercel.app/)</li>
+  <li> 🛠️ I'm working on a project,which title is Fitlog--Workout Library (https://assignment-6-fitlog-eight.vercel.app/)</li>
   <li>📚 I'm learning TypeScript</li>
   <li> 🤝 I'm open to collaborating on frontend / full-stack projects</li>
 </ul>
