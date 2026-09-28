@@ -3,6 +3,7 @@
   
 <div align="center">
   <img width="100%" alt="Tahera Akter" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tahera%20Akter&fontSize=70&fontColor=ffffff&fontAlignY=38">
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8080F2&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Enthusiast">
 </div>
 <h3> Full Stack Developer | Web Developer </h3>
 📍 Dhaka, Bangladesh  
