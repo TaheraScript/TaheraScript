@@ -4,7 +4,7 @@
 <div align="center">
   <img alt="Tahera Akter" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=44&duration=3000&pause=1500&color=C4B5FD&center=true&vCenter=true&width=700&height=80&lines=Tahera+Akter">
   <br>
-  <img alt="Role" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=600&height=40&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Building+clean+and+modern+web+experiences">
+  <img alt="Role" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=600&height=40&lines= Full+Stack+Developer;React+%26+Next.js+Enthusiast;Building+clean+and+modern+web+experiences">
   <br>
   <img width="300" height="3" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:C4B5FD,100:67E8F9&height=3">
 </div>
