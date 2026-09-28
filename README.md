@@ -39,10 +39,10 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 ### ✅ Completed Projects
 
-- 🌐 [My First Assignment](https://taherascript.github.io/My-First-Assignment/): built with **HTML & CSS**
-- ⚛️ [Assignment 5](https://taherascript-assignment-5.netlify.app/): built with **React**
+- 🌐 [Web Dev Portfolio](https://taherascript.github.io/WebDebPortfolio-HtmlCss/): built with **HTML & CSS**
+- 🌐 [DevConf](https://taherascript.github.io/DEVCONF-HtmlCss/): built with **HTML & CSS**
+- ⚛️ [DevStack](https://devstack-reactproject.netlify.app/): built with **React**
 - ▲ [Book Vibe](https://book-vibe-project-theta.vercel.app/): built with **Next.js**
-- ▲ [Fitlog: Workout Library](https://assignment-6-fitlog-eight.vercel.app/): built with **Next.js**
 <br>
 
 ## 🧰 Tech Stack
