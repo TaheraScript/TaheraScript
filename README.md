@@ -95,7 +95,8 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 
  <br>
- ## 🤝 Let's Connect 
+ <div>
+   ## 🤝 Let's Connect 
 
 <a href="https://www.linkedin.com/in/taherascript/" target="_blank">
   <img title="LinkedIn" alt="LinkedIn" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png">
@@ -104,6 +105,8 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 <a href="mailto:taherascript@gmail.com">
   <img title="Email" alt="Email" width="40px" src="https://cdn.simpleicons.org/gmail/EA4335">
 </a>
+ </div>
+
 
 <br>
 
