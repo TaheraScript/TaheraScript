@@ -2,26 +2,25 @@
 
 <img src="./assets/GithubBanner.png" alt="Profile Banner" width="100%" />
 
-<img alt="Tahera Akter" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=44&duration=3000&pause=1500&color=C4B5FD&center=true&vCenter=true&width=700&height=90&lines=Tahera+Akter">
+<img alt="Tahera Akter" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=44&duration=3000&pause=1500&color=C4B5FD&center=true&vCenter=true&width=700&height=80&lines=Tahera+Akter">
 <br>
-<img alt="Role" src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=17&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=650&height=40&lines=Full+Stack+Developer+%7C+Web+Developer;React+%26+Next.js+Enthusiast;Building+clean+and+modern+web+experiences">
+<img alt="Role" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer+%7C+Web+Developer;React+%26+Next.js+Enthusiast;Building+clean+and+modern+web+experiences">
 <br>
 <img width="300" height="3" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:C4B5FD,100:67E8F9&height=3">
 
 <br><br>
 
-<sub><b>📍 DHAKA, BANGLADESH</b></sub>
-
-<br>
+📍 Dhaka, Bangladesh
 
 <a href="https://www.linkedin.com/in/taherascript/"><img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-taherascript-0D1117?style=flat-square&labelColor=C4B5FD"></a>
 <a href="mailto:taherascript@gmail.com"><img alt="Email" height="28" src="https://img.shields.io/badge/Email-taherascript@gmail.com-0D1117?style=flat-square&labelColor=67E8F9"></a>
+
 
 </div>
 
 <br>
 
-<h2><img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=1800&pause=1000&color=C4B5FD&vCenter=true&repeat=false&width=400&height=45&lines=About+Me"></h2>
+## 💫 About Me
 
 I'm an aspiring full-stack developer passionate about building modern, clean web experiences. I'm learning, building projects, and growing my skills step by step, with the goal of becoming a professional full-stack developer.
 
@@ -33,25 +32,24 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 <br>
 
-<h2><img alt="Currently" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=1800&pause=1000&color=C4B5FD&vCenter=true&repeat=false&width=400&height=45&lines=Currently"></h2>
+## 🚀 Currently
 
 - 🔭 I'm exploring **Next.js** now
 - 🤝 I'm open to collaborating on frontend and full-stack projects
 
-<h3><img alt="Completed Projects" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=1800&pause=1000&color=67E8F9&vCenter=true&repeat=false&width=400&height=35&lines=Completed+Projects"></h3>
+### ✅ Completed Projects
 
 - 🌐 [My First Assignment](https://taherascript.github.io/My-First-Assignment/): built with **HTML & CSS**
 - ⚛️ [Assignment 5](https://taherascript-assignment-5.netlify.app/): built with **React**
 - ▲ [Book Vibe](https://book-vibe-project-theta.vercel.app/): built with **Next.js**
 - ▲ [Fitlog: Workout Library](https://assignment-6-fitlog-eight.vercel.app/): built with **Next.js**
-
 <br>
 
-<h2><img alt="Tech Stack" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=1800&pause=1000&color=C4B5FD&vCenter=true&repeat=false&width=400&height=45&lines=Tech+Stack"></h2>
+## 🧰 Tech Stack
 
 <div align="center">
 
-<sub><b>LANGUAGES</b></sub>
+**Languages**
 
 <br>
 
@@ -63,7 +61,7 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 <br><br>
 
-<sub><b>LIBRARIES AND FRAMEWORKS</b></sub>
+**Libraries and Frameworks**
 
 <br>
 
@@ -75,7 +73,7 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 <br><br>
 
-<sub><b>TOOLS</b></sub>
+**Tools**
 
 <br>
 
@@ -91,7 +89,7 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 <br>
 
-<h2><img alt="GitHub Stats" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=1800&pause=1000&color=C4B5FD&vCenter=true&repeat=false&width=400&height=45&lines=GitHub+Stats"></h2>
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -108,8 +106,10 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 <div align="center">
 
-<sub><i>Always learning, always building. Let's create something great together. ✨</i></sub>
+<sub>Always learning, always building. Let's create something great together. ✨</sub>
 
 <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,100:67E8F9&height=100&section=footer">
 
 </div>
+
+
