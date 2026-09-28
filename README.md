@@ -33,12 +33,14 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 ## 🚀 Currently
 
-| | |
-|:--|:--|
-| 🛠️ **Building** | [**Fitlog: Workout Library**](https://assignment-6-fitlog-eight.vercel.app/) |
-| 📚 **Learning** | TypeScript |
-| 🚀 **Exploring** | Next.js |
-| 🤝 **Open to** | Collaborating on frontend and full-stack projects |
+- 🔭 I'm exploring **Next.js** now
+- 🤝 I'm open to collaborating on frontend and full-stack projects
+
+### ✅ Completed Projects
+
+- 🌐 [PROJECT NAME]((https://taherascript.github.io/My-First-Assignment/)): built with **HTML & CSS**
+- ⚛️ [PROJECT NAME]((https://taherascript-assignment-5.netlify.app/)): built with **React**
+- ▲ [PROJECT NAME](https://book-vibe-project-theta.vercel.app/,https://assignment-6-fitlog-eight.vercel.app/)): built with **Next.js**
 
 <br>
 
