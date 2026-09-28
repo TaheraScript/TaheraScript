@@ -30,9 +30,10 @@ Currently learning, building projects, and growing my skills step by step.
   <li> 🤝 I'm open to collaborating on frontend / full-stack projects</li>
 </ul>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Tahera) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tahera Akter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taherascript@gmail.com) 
+## Let's Connect 🤝
 
+| <a href="https://www.linkedin.com/in/taherascript/" target="_blank"><img title="LinkedIn" alt="LinkedIn" width="40px" src="https://cdn.simpleicons.org/linkedin/0A66C2"></a> | <a href="mailto:taherascript@gmail.com"><img title="Email" alt="Email" width="40px" src="https://cdn.simpleicons.org/gmail/EA4335"></a> |
+|:-:|:-:|
 # 💻 Tech Stack:
 
 These are some of the major technologies that I use or have worked on in the past:
