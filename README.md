@@ -47,7 +47,7 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 
 <br>
-<br>
+
 ## Let's Connect 🤝
 
 <a href="https://www.linkedin.com/in/taherascript/" target="_blank">
@@ -57,7 +57,6 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 <a href="mailto:taherascript@gmail.com">
   <img title="Email" alt="Email" width="40px" src="https://cdn.simpleicons.org/gmail/EA4335">
 </a>
-
 ## 🧰 Tech Stack
 
 <div align="center">
