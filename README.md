@@ -105,7 +105,7 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
   <img title="Email" alt="Email" width="40px" src="https://cdn.simpleicons.org/gmail/EA4335">
 </a>
 
-<br><br>
+<br>
 
 
  
