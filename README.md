@@ -45,7 +45,9 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 - 📖 [BookVibe](https://book-vibe-project-theta.vercel.app/) — built with **Next.js**
 - 🏋️ [Fitlog: Workout Library](https://assignment-6-fitlog-eight.vercel.app/) — built with **Next.js**
 
+
 <br>
+
 
 ## 🤝 Let's Connect 
 
@@ -58,6 +60,8 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 </a>
 
 <br><br>
+
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -102,6 +106,8 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 
  <br>
+
+ 
 ## 📊 GitHub Stats
 
 <div align="center">
