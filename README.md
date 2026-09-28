@@ -2,8 +2,11 @@
   <img src="./assets/GithubBanner.png" alt="Profile Banner" width="100%" /> 
   
 <div align="center">
-  <img width="100%" alt="Tahera Akter" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tahera%20Akter&fontSize=70&fontColor=ffffff&fontAlignY=38">
-  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8080F2&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Enthusiast">
+  <img alt="Tahera Akter" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=44&duration=3000&pause=1500&color=E6E6FA&center=true&vCenter=true&width=700&height=80&lines=Tahera+Akter">
+  <br>
+  <img alt="Role" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=3500&pause=1200&color=9AA0B4&center=true&vCenter=true&width=600&height=40&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Building+clean+and+modern+web+experiences">
+  <br>
+  <img width="300" height="3" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:8080F2,100:F75C7E&height=3">
 </div>
 <h3> Full Stack Developer | Web Developer </h3>
 📍 Dhaka, Bangladesh  
