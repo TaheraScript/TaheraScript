@@ -42,10 +42,9 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Tools**
 
-**Tools**
-
 | <a target="_blank" href="https://git-scm.com/"><img title="Git" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git"></a> | <a target="_blank" href="https://github.com/"><img title="GitHub" alt="GitHub" width="40px" src="https://skillicons.dev/icons?i=github&theme=dark"></a> | <a target="_blank" href="https://vercel.com/"><img title="Vercel" alt="Vercel" width="40px" src="https://skillicons.dev/icons?i=vercel&theme=dark"></a> | <a target="_blank" href="https://www.figma.com/"><img title="Figma" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma"></a> | <a target="_blank" href="https://www.postman.com/"><img title="Postman" alt="Postman" width="40px" src="https://skillicons.dev/icons?i=postman"></a> | <a target="_blank" href="https://eslint.org/"><img title="ESLint" alt="ESLint" width="40px" src="https://cdn.simpleicons.org/eslint/8080F2"></a> | <a target="_blank" href="https://prettier.io/"><img title="Prettier" alt="Prettier" width="40px" src="https://cdn.simpleicons.org/prettier/F7B93E"></a> |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=TaheraScript&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=TaheraScript&theme=github_dark&hide_border=true)<br/>
