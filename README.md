@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="./assets/github-banner.png" alt="Profile Banner" width="100%" /> 
+  <img src="./assets/GithubBanner.png" alt="Profile Banner" width="100%" /> 
   
 <h2>Tahera Akter</h2>
 <h3> Full Stack Developer | Web Developer </h3>
