@@ -44,7 +44,7 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 - 📚 [DevStack-React](https://devstack-reactproject.netlify.app/) — built with **React**
 - 📖 [BookVibe](https://book-vibe-project-theta.vercel.app/) — built with **Next.js**
 - 🏋️ [Fitlog: Workout Library](https://assignment-6-fitlog-eight.vercel.app/) — built with **Next.js**
-## Let's Connect 🤝
+
 
 ## Let's Connect 🤝
 
