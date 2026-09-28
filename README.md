@@ -37,7 +37,7 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 - 🔭 I'm exploring **Next.js** now
 - 🤝 I'm open to collaborating on frontend and full-stack projects
 
-### 💻 My Projects
+## 💻 My Projects
 
 - 🌐 [Web Dev Portfolio](https://taherascript.github.io/WebDebPortfolio-HtmlCss/) — built with **HTML & CSS**
 - 🖥️ [DevConf](https://taherascript.github.io/DEVCONF-HtmlCss/) — built with **HTML & CSS**
@@ -45,18 +45,21 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 - 📖 [BookVibe](https://book-vibe-project-theta.vercel.app/) — built with **Next.js**
 - 🏋️ [Fitlog: Workout Library](https://assignment-6-fitlog-eight.vercel.app/) — built with **Next.js**
 
-
 <br>
 
-## Let's Connect 🤝
+## 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/taherascript/" target="_blank">
-  <img title="LinkedIn" alt="LinkedIn" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png">
+<img title="LinkedIn" alt="LinkedIn" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png">
 </a>
+
 &nbsp;&nbsp;
+
 <a href="mailto:taherascript@gmail.com">
-  <img title="Email" alt="Email" width="40px" src="https://cdn.simpleicons.org/gmail/EA4335">
+<img title="Email" alt="Email" width="40px" src="https://cdn.simpleicons.org/gmail/EA4335">
 </a>
+
+<br><br>
 ## 🧰 Tech Stack
 
 <div align="center">
