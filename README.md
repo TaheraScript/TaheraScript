@@ -37,13 +37,13 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 - 🔭 I'm exploring **Next.js** now
 - 🤝 I'm open to collaborating on frontend and full-stack projects
 
-### ✅ Completed Projects
+### 💻 My Projects
 
-- 🌐 [Web Dev Portfolio](https://taherascript.github.io/WebDebPortfolio-HtmlCss/): built with **HTML & CSS**
-- 🌐 [DevConf](https://taherascript.github.io/DEVCONF-HtmlCss/): built with **HTML & CSS**
-- ⚛️ [DevStack](https://devstack-reactproject.netlify.app/): built with **React**
-- ▲ [Book Vibe](https://book-vibe-project-theta.vercel.app/): built with **Next.js**
-- ▲ [Fitlog: Workout Library](https://assignment-6-fitlog-eight.vercel.app/): built with **Next.js**
+- 🌐 [Web Dev Portfolio](https://taherascript.github.io/WebDebPortfolio-HtmlCss/) — built with **HTML & CSS**
+- 🖥️ [DevConf](https://taherascript.github.io/DEVCONF-HtmlCss/) — built with **HTML & CSS**
+- 📚 [DevStack-React](https://devstack-reactproject.netlify.app/) — built with **React**
+- 📖 [BookVibe](https://book-vibe-project-theta.vercel.app/) — built with **Next.js**
+- 🏋️ [Fitlog: Workout Library](https://assignment-6-fitlog-eight.vercel.app/) — built with **Next.js**
 
 ## 🧰 Tech Stack
 
