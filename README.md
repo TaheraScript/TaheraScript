@@ -47,17 +47,13 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 <br>
 
-## 🤝 Let's Connect 
-
-<a href="https://www.linkedin.com/in/taherascript/" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/taherascript/" target="_blank" style="text-decoration:none; display:inline-block;">
   <img title="LinkedIn" alt="LinkedIn" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png">
 </a>
 
-<a href="mailto:taherascript@gmail.com" style="text-decoration: none;">
+<a href="mailto:taherascript@gmail.com" style="text-decoration:none; display:inline-block;">
   <img title="Email" alt="Email" width="40px" src="https://cdn.simpleicons.org/gmail/EA4335">
 </a>
-
-<br><br>
 
 
 ## 🧰 Tech Stack
