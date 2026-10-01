@@ -87,51 +87,26 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 [<img title="React" alt="React" width="44px" src="https://skillicons.dev/icons?i=react">](https://react.dev/)
 &nbsp;&nbsp;
+
 [<img title="Next.js" alt="Next.js" width="44px" src="https://skillicons.dev/icons?i=nextjs&theme=dark">](https://nextjs.org/)
 &nbsp;&nbsp;
+
 [<img title="Tailwind CSS" alt="Tailwind CSS" width="44px" src="https://skillicons.dev/icons?i=tailwind">](https://tailwindcss.com/)
 &nbsp;&nbsp;
+
 [<img title="DaisyUI" alt="DaisyUI" width="44px" src="https://cdn.simpleicons.org/daisyui/5A0EF8">](https://daisyui.com/)
 &nbsp;&nbsp;
+
 [<img title="Context API" alt="Context API" width="44px" src="https://api.iconify.design/mdi:transit-connection-variant.svg?color=%2361DAFB">](https://react.dev/reference/react/useContext)
 &nbsp;&nbsp;
-[<img title="React Icons" alt="React Icons" width="44px" src="...">](https://react-icons.github.io/react-icons/)
-&nbsp;&nbsp;
-[<img title="React Toastify" alt="React Toastify" width="44px" src="...">](https://fkhadra.github.io/react-toastify/)
-&nbsp;&nbsp;
-[<img title="HeroUI" alt="HeroUI" width="44px" src="https://cdn.simpleicons.org/heroui/000000">](https://www.heroui.com/)
 
-**Database & Authentication**
+[<img title="React Icons" alt="React Icons" height="28px" src="https://img.shields.io/badge/React_Icons-61DAFB?style=flat-square&logo=react&logoColor=20232A">](https://react-icons.github.io/react-icons/)
+&nbsp;&nbsp;
 
-<br><br>
+[<img title="React Toastify" alt="React Toastify" height="28px" src="https://img.shields.io/badge/React_Toastify-FF6B6B?style=flat-square&logo=react&logoColor=white">](https://fkhadra.github.io/react-toastify/)
+&nbsp;&nbsp;
 
-[<img title="MongoDB" alt="MongoDB" width="44px" src="https://skillicons.dev/icons?i=mongodb">](https://www.mongodb.com/)
-&nbsp;&nbsp;
-[<img title="Better Auth" alt="Better Auth" width="44px" src="https://cdn.simpleicons.org/auth0/EB5424">](https://www.better-auth.com/)
-
-<br><br><br>
-
-**Development & Deployment**
-
-<br><br>
-
-[<img title="Git" alt="Git" width="44px" src="https://skillicons.dev/icons?i=git">](https://git-scm.com/)
-&nbsp;&nbsp;
-[<img title="GitHub" alt="GitHub" width="44px" src="https://skillicons.dev/icons?i=github&theme=dark">](https://github.com/)
-&nbsp;&nbsp;
-[<img title="Vite" alt="Vite" width="44px" src="https://skillicons.dev/icons?i=vite">](https://vite.dev/)
-&nbsp;&nbsp;
-[<img title="Vercel" alt="Vercel" width="44px" src="https://skillicons.dev/icons?i=vercel&theme=dark">](https://vercel.com/)
-&nbsp;&nbsp;
-[<img title="Netlify" alt="Netlify" width="44px" src="https://skillicons.dev/icons?i=netlify">](https://www.netlify.com/)
-&nbsp;&nbsp;
-[<img title="Postman" alt="Postman" width="44px" src="https://skillicons.dev/icons?i=postman">](https://www.postman.com/)
-&nbsp;&nbsp;
-[<img title="ESLint" alt="ESLint" width="44px" src="https://cdn.simpleicons.org/eslint/8080F2">](https://eslint.org/)
-&nbsp;&nbsp;
-[<img title="Prettier" alt="Prettier" width="44px" src="https://cdn.simpleicons.org/prettier/F7B93E">](https://prettier.io/)
-
-<br><br><br>
+[<img title="HeroUI" alt="HeroUI" width="44px" src="https://api.iconify.design/simple-icons:heroui.svg?color=%23FFFFFF">](https://www.heroui.com/)
 
 **Design & Resources**
 
