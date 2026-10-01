@@ -67,46 +67,155 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 **Languages**
 
-<br>
+<br><br>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img title="HTML5" alt="HTML5" width="44px" src="https://skillicons.dev/icons?i=html"></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img title="CSS3" alt="CSS3" width="44px" src="https://skillicons.dev/icons?i=css"></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img title="JavaScript" alt="JavaScript" width="44px" src="https://skillicons.dev/icons?i=js"></a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/"><img title="TypeScript" alt="TypeScript" width="44px" src="https://skillicons.dev/icons?i=ts"></a>&nbsp;&nbsp;
-<a href="https://www.java.com/"><img title="Java" alt="Java" width="44px" src="https://skillicons.dev/icons?i=java"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img title="HTML5" alt="HTML5" width="44px" src="https://skillicons.dev/icons?i=html">
+</a>&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img title="CSS3" alt="CSS3" width="44px" src="https://skillicons.dev/icons?i=css">
+</a>&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img title="JavaScript" alt="JavaScript" width="44px" src="https://skillicons.dev/icons?i=js">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.typescriptlang.org/">
+  <img title="TypeScript" alt="TypeScript" width="44px" src="https://skillicons.dev/icons?i=ts">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.java.com/">
+  <img title="Java" alt="Java" width="44px" src="https://skillicons.dev/icons?i=java">
+</a>
+
+<br><br><br>
+
+**Libraries & Frameworks**
 
 <br><br>
 
-**Libraries and Frameworks**
+<a href="https://react.dev/">
+  <img title="React" alt="React" width="44px" src="https://skillicons.dev/icons?i=react">
+</a>&nbsp;&nbsp;
 
-<br>
+<a href="https://nextjs.org/">
+  <img title="Next.js" alt="Next.js" width="44px" src="https://skillicons.dev/icons?i=nextjs&theme=dark">
+</a>&nbsp;&nbsp;
 
-<a href="https://react.dev/"><img title="React" alt="React" width="44px" src="https://skillicons.dev/icons?i=react"></a>&nbsp;&nbsp;
-<a href="https://nextjs.org/"><img title="Next.js" alt="Next.js" width="44px" src="https://skillicons.dev/icons?i=nextjs&theme=dark"></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/"><img title="Tailwind CSS" alt="Tailwind CSS" width="44px" src="https://skillicons.dev/icons?i=tailwind"></a>&nbsp;&nbsp;
-<a href="https://daisyui.com/"><img title="DaisyUI" alt="DaisyUI" width="44px" src="https://cdn.simpleicons.org/daisyui/5A0EF8"></a>&nbsp;&nbsp;
-<a href="https://react.dev/reference/react/useContext"><img title="Context API" alt="Context API" width="44px" src="https://cdn.simpleicons.org/react/61DAFB"></a>
+<a href="https://tailwindcss.com/">
+  <img title="Tailwind CSS" alt="Tailwind CSS" width="44px" src="https://skillicons.dev/icons?i=tailwind">
+</a>&nbsp;&nbsp;
+
+<a href="https://daisyui.com/">
+  <img title="DaisyUI" alt="DaisyUI" width="44px" src="https://cdn.simpleicons.org/daisyui/5A0EF8">
+</a>&nbsp;&nbsp;
+
+<a href="https://react.dev/reference/react/useContext">
+  <img title="Context API" alt="Context API" width="44px" src="https://cdn.simpleicons.org/react/61DAFB">
+</a>&nbsp;&nbsp;
+
+<a href="https://react-icons.github.io/react-icons/">
+  <img title="React Icons" alt="React Icons" width="44px" src="https://cdn.simpleicons.org/react/61DAFB">
+</a>&nbsp;&nbsp;
+
+<a href="https://fkhadra.github.io/react-toastify/">
+  <img title="React Toastify" alt="React Toastify" width="44px" src="https://cdn.simpleicons.org/react/61DAFB">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.heroui.com/">
+  <img title="HeroUI" alt="HeroUI" width="44px" src="https://cdn.simpleicons.org/heroui/000000">
+</a>
+
+<br><br><br>
+
+**Database & Authentication**
 
 <br><br>
 
-**Tools**
+<a href="https://www.mongodb.com/">
+  <img title="MongoDB" alt="MongoDB" width="44px" src="https://skillicons.dev/icons?i=mongodb">
+</a>&nbsp;&nbsp;
 
-<br>
+<a href="https://www.better-auth.com/">
+  <img title="Better Auth" alt="Better Auth" width="44px" src="https://cdn.simpleicons.org/auth0/EB5424">
+</a>
 
-<a href="https://git-scm.com/"><img title="Git" alt="Git" width="44px" src="https://skillicons.dev/icons?i=git"></a>&nbsp;&nbsp;
-<a href="https://github.com/"><img title="GitHub" alt="GitHub" width="44px" src="https://skillicons.dev/icons?i=github&theme=dark"></a>&nbsp;&nbsp;
-<a href="https://vercel.com/"><img title="Vercel" alt="Vercel" width="44px" src="https://skillicons.dev/icons?i=vercel&theme=dark"></a>&nbsp;&nbsp;
-<a href="https://www.figma.com/"><img title="Figma" alt="Figma" width="44px" src="https://skillicons.dev/icons?i=figma"></a>&nbsp;&nbsp;
-<a href="https://www.postman.com/"><img title="Postman" alt="Postman" width="44px" src="https://skillicons.dev/icons?i=postman"></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/"><img title="MongoDB" alt="MongoDB" width="44px" src="https://skillicons.dev/icons?i=mongodb"></a>&nbsp;&nbsp;
-<a href="https://eslint.org/"><img title="ESLint" alt="ESLint" width="44px" src="https://cdn.simpleicons.org/eslint/8080F2"></a>&nbsp;&nbsp;
-<a href="https://prettier.io/"><img title="Prettier" alt="Prettier" width="44px" src="https://cdn.simpleicons.org/prettier/F7B93E"></a>
+<br><br><br>
+
+**Development & Deployment**
+
+<br><br>
+
+<a href="https://git-scm.com/">
+  <img title="Git" alt="Git" width="44px" src="https://skillicons.dev/icons?i=git">
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/">
+  <img title="GitHub" alt="GitHub" width="44px" src="https://skillicons.dev/icons?i=github&theme=dark">
+</a>&nbsp;&nbsp;
+
+<a href="https://vite.dev/">
+  <img title="Vite" alt="Vite" width="44px" src="https://skillicons.dev/icons?i=vite">
+</a>&nbsp;&nbsp;
+
+<a href="https://vercel.com/">
+  <img title="Vercel" alt="Vercel" width="44px" src="https://skillicons.dev/icons?i=vercel&theme=dark">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.netlify.com/">
+  <img title="Netlify" alt="Netlify" width="44px" src="https://skillicons.dev/icons?i=netlify">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.postman.com/">
+  <img title="Postman" alt="Postman" width="44px" src="https://skillicons.dev/icons?i=postman">
+</a>&nbsp;&nbsp;
+
+<a href="https://eslint.org/">
+  <img title="ESLint" alt="ESLint" width="44px" src="https://cdn.simpleicons.org/eslint/8080F2">
+</a>&nbsp;&nbsp;
+
+<a href="https://prettier.io/">
+  <img title="Prettier" alt="Prettier" width="44px" src="https://cdn.simpleicons.org/prettier/F7B93E">
+</a>
+
+<br><br><br>
+
+**Design & Resources**
+
+<br><br>
+
+<a href="https://www.figma.com/">
+  <img title="Figma" alt="Figma" width="44px" src="https://skillicons.dev/icons?i=figma">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.canva.com/">
+  <img title="Canva" alt="Canva" width="44px" src="https://cdn.simpleicons.org/canva/00C4CC">
+</a>&nbsp;&nbsp;
+
+<a href="https://penpot.app/">
+  <img title="Penpot" alt="Penpot" width="44px" src="https://cdn.simpleicons.org/penpot/000000">
+</a>&nbsp;&nbsp;
+
+<a href="https://dribbble.com/">
+  <img title="Dribbble" alt="Dribbble" width="44px" src="https://cdn.simpleicons.org/dribbble/EA4C89">
+</a>&nbsp;&nbsp;
+
+<a href="https://themeforest.net/">
+  <img title="ThemeForest" alt="ThemeForest" width="44px" src="https://cdn.simpleicons.org/envato/81B71A">
+</a>&nbsp;&nbsp;
+
+<a href="https://colorhunt.co/">
+  <img title="Color Hunt" alt="Color Hunt" width="44px" src="https://cdn.simpleicons.org/colorhunt/FF6B6B">
+</a>&nbsp;&nbsp;
+
+<a href="https://heroicons.com/">
+  <img title="Heroicons" alt="Heroicons" width="44px" src="https://cdn.simpleicons.org/heroicons/000000">
+</a>
 
 </div>
 
-
- <br>
-
+<br>
 
  
 ## 📊 GitHub Stats
