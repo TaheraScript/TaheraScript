@@ -98,6 +98,7 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 <a href="https://vercel.com/"><img title="Vercel" alt="Vercel" width="44px" src="https://skillicons.dev/icons?i=vercel&theme=dark"></a>&nbsp;&nbsp;
 <a href="https://www.figma.com/"><img title="Figma" alt="Figma" width="44px" src="https://skillicons.dev/icons?i=figma"></a>&nbsp;&nbsp;
 <a href="https://www.postman.com/"><img title="Postman" alt="Postman" width="44px" src="https://skillicons.dev/icons?i=postman"></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/"><img title="MongoDB" alt="MongoDB" width="44px" src="https://skillicons.dev/icons?i=mongodb"></a>&nbsp;&nbsp;
 <a href="https://eslint.org/"><img title="ESLint" alt="ESLint" width="44px" src="https://cdn.simpleicons.org/eslint/8080F2"></a>&nbsp;&nbsp;
 <a href="https://prettier.io/"><img title="Prettier" alt="Prettier" width="44px" src="https://cdn.simpleicons.org/prettier/F7B93E"></a>
 
