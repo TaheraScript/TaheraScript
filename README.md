@@ -93,15 +93,13 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 &nbsp;&nbsp;
 [<img title="DaisyUI" alt="DaisyUI" width="44px" src="https://cdn.simpleicons.org/daisyui/5A0EF8">](https://daisyui.com/)
 &nbsp;&nbsp;
-[<img title="Context API" alt="Context API" width="44px" src="https://cdn.simpleicons.org/react/61DAFB">](https://react.dev/reference/react/useContext)
+[<img title="Context API" alt="Context API" width="44px" src="https://api.iconify.design/mdi:transit-connection-variant.svg?color=%2361DAFB">](https://react.dev/reference/react/useContext)
 &nbsp;&nbsp;
-[<img title="React Icons" alt="React Icons" width="44px" src="https://cdn.simpleicons.org/react/61DAFB">](https://react-icons.github.io/react-icons/)
+[<img title="React Icons" alt="React Icons" width="44px" src="...">](https://react-icons.github.io/react-icons/)
 &nbsp;&nbsp;
-[<img title="React Toastify" alt="React Toastify" width="44px" src="https://cdn.simpleicons.org/react/61DAFB">](https://fkhadra.github.io/react-toastify/)
+[<img title="React Toastify" alt="React Toastify" width="44px" src="...">](https://fkhadra.github.io/react-toastify/)
 &nbsp;&nbsp;
 [<img title="HeroUI" alt="HeroUI" width="44px" src="https://cdn.simpleicons.org/heroui/000000">](https://www.heroui.com/)
-
-<br><br><br>
 
 **Database & Authentication**
 
