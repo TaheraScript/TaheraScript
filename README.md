@@ -69,15 +69,11 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 <br><br>
 
-[<img title="HTML5" alt="HTML5" width="44px" src="https://skillicons.dev/icons?i=html">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-&nbsp;&nbsp;
-[<img title="CSS3" alt="CSS3" width="44px" src="https://skillicons.dev/icons?i=css">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-&nbsp;&nbsp;
-[<img title="JavaScript" alt="JavaScript" width="44px" src="https://skillicons.dev/icons?i=js">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-&nbsp;&nbsp;
-[<img title="TypeScript" alt="TypeScript" width="44px" src="https://skillicons.dev/icons?i=ts">](https://www.typescriptlang.org/)
-&nbsp;&nbsp;
-[<img title="Java" alt="Java" width="44px" src="https://skillicons.dev/icons?i=java">](https://www.java.com/)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img title="HTML5" alt="HTML5" width="44px" src="https://skillicons.dev/icons?i=html"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img title="CSS3" alt="CSS3" width="44px" src="https://skillicons.dev/icons?i=css"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img title="JavaScript" alt="JavaScript" width="44px" src="https://skillicons.dev/icons?i=js"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/"><img title="TypeScript" alt="TypeScript" width="44px" src="https://skillicons.dev/icons?i=ts"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.java.com/"><img title="Java" alt="Java" width="44px" src="https://skillicons.dev/icons?i=java"></a>
 
 <br><br><br>
 
@@ -85,46 +81,50 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 <br><br>
 
-[<img title="React" alt="React" width="44px" src="https://skillicons.dev/icons?i=react">](https://react.dev/)
-&nbsp;&nbsp;
+<a href="https://react.dev/"><img title="React" alt="React" width="44px" src="https://skillicons.dev/icons?i=react"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://nextjs.org/"><img title="Next.js" alt="Next.js" width="44px" src="https://skillicons.dev/icons?i=nextjs&theme=dark"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://tailwindcss.com/"><img title="Tailwind CSS" alt="Tailwind CSS" width="44px" src="https://skillicons.dev/icons?i=tailwind"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://daisyui.com/"><img title="DaisyUI" alt="DaisyUI" width="44px" src="https://cdn.simpleicons.org/daisyui/5A0EF8"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://react.dev/reference/react/useContext"><img title="Context API" alt="Context API" width="44px" src="https://api.iconify.design/mdi:transit-connection-variant.svg?color=%2361DAFB"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.heroui.com/"><img title="HeroUI" alt="HeroUI" width="44px" src="https://api.iconify.design/simple-icons:heroui.svg?color=%23FFFFFF"></a>
 
-[<img title="Next.js" alt="Next.js" width="44px" src="https://skillicons.dev/icons?i=nextjs&theme=dark">](https://nextjs.org/)
-&nbsp;&nbsp;
+<br><br><br>
 
-[<img title="Tailwind CSS" alt="Tailwind CSS" width="44px" src="https://skillicons.dev/icons?i=tailwind">](https://tailwindcss.com/)
-&nbsp;&nbsp;
+**Database & Authentication**
 
-[<img title="DaisyUI" alt="DaisyUI" width="44px" src="https://cdn.simpleicons.org/daisyui/5A0EF8">](https://daisyui.com/)
-&nbsp;&nbsp;
+<br><br>
 
-[<img title="Context API" alt="Context API" width="44px" src="https://api.iconify.design/mdi:transit-connection-variant.svg?color=%2361DAFB">](https://react.dev/reference/react/useContext)
-&nbsp;&nbsp;
+<a href="https://www.mongodb.com/"><img title="MongoDB" alt="MongoDB" width="44px" src="https://skillicons.dev/icons?i=mongodb"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.better-auth.com/"><img title="Better Auth" alt="Better Auth" width="44px" src="https://api.iconify.design/mdi:shield-check.svg?color=%2361DAFB"></a>
 
-[<img title="React Icons" alt="React Icons" height="28px" src="https://img.shields.io/badge/React_Icons-61DAFB?style=flat-square&logo=react&logoColor=20232A">](https://react-icons.github.io/react-icons/)
-&nbsp;&nbsp;
+<br><br><br>
 
-[<img title="React Toastify" alt="React Toastify" height="28px" src="https://img.shields.io/badge/React_Toastify-FF6B6B?style=flat-square&logo=react&logoColor=white">](https://fkhadra.github.io/react-toastify/)
-&nbsp;&nbsp;
+**Development & Deployment**
 
-[<img title="HeroUI" alt="HeroUI" width="44px" src="https://api.iconify.design/simple-icons:heroui.svg?color=%23FFFFFF">](https://www.heroui.com/)
+<br><br>
+
+<a href="https://git-scm.com/"><img title="Git" alt="Git" width="44px" src="https://skillicons.dev/icons?i=git"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/"><img title="GitHub" alt="GitHub" width="44px" src="https://skillicons.dev/icons?i=github&theme=dark"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://vite.dev/"><img title="Vite" alt="Vite" width="44px" src="https://skillicons.dev/icons?i=vite"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://vercel.com/"><img title="Vercel" alt="Vercel" width="44px" src="https://skillicons.dev/icons?i=vercel&theme=dark"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.netlify.com/"><img title="Netlify" alt="Netlify" width="44px" src="https://skillicons.dev/icons?i=netlify"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.postman.com/"><img title="Postman" alt="Postman" width="44px" src="https://skillicons.dev/icons?i=postman"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://eslint.org/"><img title="ESLint" alt="ESLint" width="44px" src="https://cdn.simpleicons.org/eslint/8080F2"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://prettier.io/"><img title="Prettier" alt="Prettier" width="44px" src="https://cdn.simpleicons.org/prettier/F7B93E"></a>
+
+<br><br><br>
 
 **Design & Resources**
 
 <br><br>
 
-[<img title="Figma" alt="Figma" width="44px" src="https://skillicons.dev/icons?i=figma">](https://www.figma.com/)
-&nbsp;&nbsp;
-[<img title="Canva" alt="Canva" width="44px" src="https://api.iconify.design/simple-icons:canva.svg?color=%2300C4CC">](https://www.canva.com/)
-&nbsp;&nbsp;
-[<img title="Penpot" alt="Penpot" width="44px" src="https://api.iconify.design/simple-icons:penpot.svg?color=%23000000">](https://penpot.app/)
-&nbsp;&nbsp;
-[<img title="Dribbble" alt="Dribbble" width="44px" src="https://api.iconify.design/simple-icons:dribbble.svg?color=%23EA4C89">](https://dribbble.com/)
-&nbsp;&nbsp;
-[<img title="ThemeForest" alt="ThemeForest" width="44px" src="https://api.iconify.design/simple-icons:envato.svg?color=%2381B71A">](https://themeforest.net/)
-&nbsp;&nbsp;
-[<img title="Color Hunt" alt="Color Hunt" width="44px" src="https://api.iconify.design/mdi:palette.svg?color=%23FF6B6B">](https://colorhunt.co/)
-&nbsp;&nbsp;
-[<img title="Heroicons" alt="Heroicons" width="44px" src="https://api.iconify.design/heroicons-outline:code.svg?color=%236B7280">](https://heroicons.com/)
+<a href="https://www.figma.com/"><img title="Figma" alt="Figma" width="44px" src="https://skillicons.dev/icons?i=figma"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.canva.com/"><img title="Canva" alt="Canva" width="44px" src="https://api.iconify.design/simple-icons:canva.svg?color=%2300C4CC"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://penpot.app/"><img title="Penpot" alt="Penpot" width="44px" src="https://api.iconify.design/simple-icons:penpot.svg?color=%23FFFFFF"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://dribbble.com/"><img title="Dribbble" alt="Dribbble" width="44px" src="https://api.iconify.design/simple-icons:dribbble.svg?color=%23EA4C89"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://themeforest.net/"><img title="ThemeForest" alt="ThemeForest" width="44px" src="https://api.iconify.design/simple-icons:envato.svg?color=%2381B71A"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://colorhunt.co/"><img title="Color Hunt" alt="Color Hunt" width="44px" src="https://api.iconify.design/mdi:palette.svg?color=%23FF6B6B"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://heroicons.com/"><img title="Heroicons" alt="Heroicons" width="44px" src="https://api.iconify.design/heroicons-outline:code.svg?color=%23FFFFFF"></a>
 
 </div>
 
