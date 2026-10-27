@@ -85,9 +85,15 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 <a href="https://nextjs.org/"><img title="Next.js" alt="Next.js" width="44px" src="https://skillicons.dev/icons?i=nextjs&theme=dark"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://tailwindcss.com/"><img title="Tailwind CSS" alt="Tailwind CSS" width="44px" src="https://skillicons.dev/icons?i=tailwind"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://daisyui.com/"><img title="DaisyUI" alt="DaisyUI" width="44px" src="https://cdn.simpleicons.org/daisyui/5A0EF8"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://react.dev/reference/react/useContext"><img title="Context API" alt="Context API" width="44px" src="https://api.iconify.design/mdi:transit-connection-variant.svg?color=%2361DAFB"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.heroui.com/"><img title="HeroUI" alt="HeroUI" width="44px" src="https://api.iconify.design/simple-icons:heroui.svg?color=%23FFFFFF"></a>
+<a href="https://react.dev/reference/react/useContext">
+  <img title="Context API" alt="Context API" width="44"
+  src="https://cdn.simpleicons.org/react/61DAFB">
+</a>&nbsp;&nbsp;&nbsp;
 
+<a href="https://www.heroui.com/">
+  <img title="HeroUI" alt="HeroUI" width="44"
+  src="https://cdn.simpleicons.org/heroui/FFFFFF">
+</a>
 <br><br><br>
 
 **Database & Authentication**
@@ -95,7 +101,10 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 <br><br>
 
 <a href="https://www.mongodb.com/"><img title="MongoDB" alt="MongoDB" width="44px" src="https://skillicons.dev/icons?i=mongodb"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.better-auth.com/"><img title="Better Auth" alt="Better Auth" width="44px" src="https://api.iconify.design/mdi:shield-check.svg?color=%2361DAFB"></a>
+<a href="https://www.better-auth.com/">
+  <img title="Better Auth" alt="Better Auth" width="44"
+  src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/shield-check.svg">
+</a>
 
 <br><br><br>
 
@@ -118,14 +127,40 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 <br><br>
 
-<a href="https://www.figma.com/"><img title="Figma" alt="Figma" width="44px" src="https://skillicons.dev/icons?i=figma"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.canva.com/"><img title="Canva" alt="Canva" width="44px" src="https://api.iconify.design/simple-icons:canva.svg?color=%2300C4CC"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://penpot.app/"><img title="Penpot" alt="Penpot" width="44px" src="https://api.iconify.design/simple-icons:penpot.svg?color=%23FFFFFF"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://dribbble.com/"><img title="Dribbble" alt="Dribbble" width="44px" src="https://api.iconify.design/simple-icons:dribbble.svg?color=%23EA4C89"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://themeforest.net/"><img title="ThemeForest" alt="ThemeForest" width="44px" src="https://api.iconify.design/simple-icons:envato.svg?color=%2381B71A"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://colorhunt.co/"><img title="Color Hunt" alt="Color Hunt" width="44px" src="https://api.iconify.design/mdi:palette.svg?color=%23FF6B6B"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://heroicons.com/"><img title="Heroicons" alt="Heroicons" width="44px" src="https://api.iconify.design/heroicons-outline:code.svg?color=%23FFFFFF"></a>
+<a href="https://www.figma.com/">
+  <img title="Figma" alt="Figma" width="44"
+  src="https://cdn.simpleicons.org/figma/F24E1E">
+</a>&nbsp;&nbsp;&nbsp;
 
+<a href="https://www.canva.com/">
+  <img title="Canva" alt="Canva" width="44"
+  src="https://cdn.simpleicons.org/canva/00C4CC">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://penpot.app/">
+  <img title="Penpot" alt="Penpot" width="44"
+  src="https://cdn.simpleicons.org/penpot/FFFFFF">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://dribbble.com/">
+  <img title="Dribbble" alt="Dribbble" width="44"
+  src="https://cdn.simpleicons.org/dribbble/EA4C89">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://themeforest.net/">
+  <img title="Envato Market" alt="Envato Market" width="44"
+  src="https://cdn.simpleicons.org/envato/81B71A">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://colorhunt.co/">
+  <img title="Color Hunt" alt="Color Hunt" width="44"
+  src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/palette.svg">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://heroicons.com/">
+  <img title="Heroicons" alt="Heroicons" width="44"
+  src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code.svg">
+</a>
 </div>
 
 <br>
