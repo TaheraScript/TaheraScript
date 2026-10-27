@@ -133,7 +133,7 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.canva.com/">
-  <img title="Canva" alt="Canva" width="44"
+  <img title="Canva" alt="Canva" width="44px"
   src="https://cdn.simpleicons.org/canva/00C4CC">
 </a>&nbsp;&nbsp;&nbsp;
 
