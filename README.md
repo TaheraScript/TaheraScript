@@ -134,7 +134,7 @@ I'm an aspiring full-stack developer passionate about building modern, clean web
 
 <a href="https://www.canva.com/">
   <img title="Canva" alt="Canva" width="44px"
-  src="https://cdn.simpleicons.org/canva/00C4CC">
+  src="https://img.icons8.com/color/48/canva.png">
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://penpot.app/">
