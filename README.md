@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/taherascript/"><img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-taherascript-0D1117?style=flat-square&labelColor=C4B5FD"></a>
 <a href="mailto:taherascript@gmail.com"><img alt="Email" height="28" src="https://img.shields.io/badge/Email-taherascript@gmail.com-0D1117?style=flat-square&labelColor=67E8F9"></a>
-
+<a href="https://portfolio-tahera-akter.vercel.app/"><img alt="Portfolio" height="28" src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0D1117?style=flat-square&labelColor=86EFAC"></a>
 
 </div>
 
